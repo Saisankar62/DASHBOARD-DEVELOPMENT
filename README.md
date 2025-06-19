@@ -13,3 +13,6 @@
 
 #output
 ![Image](https://github.com/user-attachments/assets/13a26b88-2314-4cc3-a31d-5879f01f90a9)
+
+
+#selecting the year_id like 2003 and Territory like JAPAN the dashboard 
