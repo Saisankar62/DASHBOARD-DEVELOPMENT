@@ -22,3 +22,8 @@ Now design report for the sales_data_sample
 #selecting the year_id like 2003 and Territory like JAPAN the dashboard using slicers.
 ![Image](https://github.com/user-attachments/assets/eb23cd25-7b7b-4186-91b2-b86941ec29b9)
 
+![Image](https://github.com/user-attachments/assets/689b70e2-6404-4a29-80cc-cc4425af518a)
+
+![Image](https://github.com/user-attachments/assets/ddb787b8-4ed1-4a22-a29e-8de8ab45f67a)
+
+![Image](https://github.com/user-attachments/assets/0e133406-d97f-44c7-af96-59c8a3acd9e1)
