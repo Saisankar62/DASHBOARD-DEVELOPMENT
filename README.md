@@ -9,7 +9,10 @@
 #DISCRIPTION OF THE TASK
 I sucessfully create Interactive Dashboard on POWER BI. Load Data into Power BI the dataset that i downolad from the kaggle i.e.."sales_data_sample.csv". In Power Bi Desktop Click on Get Data > Choose the file type (e.g., CSV, Excel). Navigate to sales_data_sample.csv file and load it.
 Next step is go to Transform Data that opens Power Query Editor then Convert column types if necessary (e.g., Sales from text to decimal,priceeach to decimal,quantity to whole number). Remove unnecessary columns like ADDRESSLINE2 finally Close & Apply changes.
-Now design report for the sales_data_sample
+Now design report for the sales_data_sample->Report page one Sales Overview in this add a Card showing total sales(sum of the sales),A Map Visual showing countary and sales,Use a Clustered Bar Chart for sum of sales by productline.Report page two Customer Insights in this add Pie chart for Sales by dealsize,Table that shows customernames by sum of sales sales and also add Slicer Filter by countary.Report page three about Inventory/Quantity Analysis in this add A stacked bar chart for visual count of dealsize by month_id, Use a Clustered Bar Chart for sum of quantityordered by productline and countary,A Map Visual showing quantityordered by countary,add a table that shows customername by sum of quantityordered.
+
+
+
 
 
 
