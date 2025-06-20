@@ -6,14 +6,18 @@
 **DURATION**: 8 WEEKS
 **MENTOR**: NEELA SANTOSH
 
+#DISCRIPTION OF THE TASK
+I sucessfully create Interactive Dashboard on POWER BI. Load Data into Power BI the dataset that i downolad from the kaggle i.e.."sales_data_sample.csv". In Power Bi Desktop Click on Get Data > Choose the file type (e.g., CSV, Excel). Navigate to sales_data_sample.csv file and load it.
+Next step is go to Transform Data that opens Power Query Editor then Convert column types if necessary (e.g., Sales from text to decimal,priceeach to decimal,quantity to whole number). Remove unnecessary columns like ADDRESSLINE2 finally Close & Apply changes.
+Now design report for the data 
 
 
 
 
 
 #output
-![Image](https://github.com/user-attachments/assets/13a26b88-2314-4cc3-a31d-5879f01f90a9)
 
 
-#selecting the year_id like 2003 and Territory like JAPAN the dashboard 
+
+#selecting the year_id like 2003 and Territory like JAPAN the dashboard using slicers.
 ![Image](https://github.com/user-attachments/assets/09d84fa6-3d4a-41af-8058-259563357c02)
