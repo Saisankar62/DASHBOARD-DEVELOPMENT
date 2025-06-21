@@ -17,7 +17,8 @@ Report page four about Interactivity with Slicers and Filters in this page Inser
 Enable Cross-report filtering so clicking on a category filters all visuals.
 This after go to view and enable sync slicers to all pages,the advance options like sync field changes to other slicers and sync filter
 changes to other slicers.
-Finally save these four report pages to Interactive Dashboard.pbix 
+Finally save these four report pages to Interactive Dashboard.pbix.
+Tools used like Microsoft Power BI Desktop and Dataset (CSV, Excel, SQL Server, etc.)A powerful business intelligence tool by Microsoft,Drag-and-drop interface with deep integration into Excel, SQL Server.
 
 
 
