@@ -25,7 +25,6 @@ A powerful business intelligence tool by Microsoft.Key features are Drag-and-dro
 
 
 
-
 #output of the sales overview:
 ![Image](https://github.com/user-attachments/assets/c1d62082-678e-43ed-87f9-b60e5690dc19)
 
